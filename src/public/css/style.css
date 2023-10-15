@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Tilt Neon', sans-serif;;
+}
+body{
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+#navbar{
+    background:  rgb(40, 22, 72);
+}
+#name{
+   color: whitesmoke;
+   margin: 1%;
+}
+#navsup{
+    color: whitesmoke;
+}
+button{
+    text-decoration: none;
+    margin: 2px;
+    border-radius: 3px;
+    background-color:rgb(40, 22, 72) ;
+    color: whitesmoke;
+}
+a{
+    text-decoration: none;
+    color: whitesmoke; 
+}
+#card{
+    background-color:rgb(40, 22, 72) ;
+}
+#cardC{
+    color: whitesmoke;
+}
+#cbtn{
+    background-color:rgb(40, 22, 72) ;
+    padding: 21px;
+}
+#searchbar{
+    border-color: rgb(40, 22, 72);
+    border-width: 5px;
+}
+
